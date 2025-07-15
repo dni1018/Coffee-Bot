@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Espresso",
+    "ingredients": [
+      "18-20g finely ground coffee beans"
+    ],
+    "steps": [
+      "Tamp coffee into portafilter.",
+      "Lock portafilter into espresso machine.",
+      "Start shot and extract for 25-30 seconds."
+    ]
+  },
+  {
+    "name": "Latte",
+    "ingredients": [
+      "1 shot espresso",
+      "6-8oz steamed milk",
+      "Foamed milk (for topping)"
+    ],
+    "steps": [
+      "Pull a shot of espresso into a cup.",
+      "Steam milk until velvety and microfoamed.",
+      "Pour steamed milk over espresso, holding back foam.",
+      "Top with a small layer of foam."
+    ]
+  },
+  {
+    "name": "Flat White",
+    "ingredients": [
+      "1 shot espresso",
+      "4-6oz steamed milk"
+    ],
+    "steps": [
+      "Pull a shot of espresso into a cup.",
+      "Steam milk to a silky microfoam.",
+      "Pour steamed milk over espresso, with very little foam."
+    ]
+  },
+  {
+    "name": "Caramel Macchiato",
+    "ingredients": [
+      "1 shot espresso",
+      "8oz steamed milk",
+      "1 tbsp vanilla syrup",
+      "Caramel sauce (for drizzle)"
+    ],
+    "steps": [
+      "Add vanilla syrup to cup.",
+      "Pour steamed milk into cup.",
+      "Add espresso shot on top.",
+      "Drizzle caramel sauce over the top."
+    ]
+  },
+  {
+    "name": "Matcha Latte",
+    "ingredients": [
+      "½ to 1 teaspoon matcha powder",
+      "¼ cup hot water",
+      "¼ cup coconut milk, warmed",
+      "Maple syrup, honey, stevia, or sweetener of choice (optional)"
+    ],
+    "steps": [
+      "Sift your matcha powder to ensure it is lump-free.",
+      "Spoon the matcha into a large mug.",
+      "Add the hot water and whisk briskly in an up-and-down motion until frothy (about 30 seconds).",
+      "Add the warmed coconut milk and whisk until well combined.",
+      "Taste and adjust by adding additional water, coconut milk, and/or sweetener to your liking."
+    ]
+  },
+  {
+    "name": "Strawberry Acai Coffee or Green Tea Drink",
+    "ingredients": [
+      "2 tablespoons green tea or coffee, chilled",
+      "1/2 pound fresh strawberries, stems removed and halved",
+      "4 cups water, divided",
+      "3/4 teaspoon freeze-dried acai powder",
+      "1 ¾ cups white grape juice",
+      "2 tablespoons simple syrup (or sugar or honey, adjustable)",
+      "ice cubes"
+    ],
+    "steps": [
+      "Make green tea or coffee and let it chill in the fridge. (You can prepare this ahead of time.)",
+      "Prepare the strawberries by removing green leaves and cutting them into halves.",
+      "Add strawberries and 1 cup of water into a blender. Blend until smooth and then strain through a fine mesh.",
+      "Whisk together acai powder and 1/2 cup of water until dissolved. It takes a few minutes for the powder to dissolve completely.",
+      "(Optional) If you don't like the tiny black particles from the acai powder, strain the mixture through cheesecloth or a coffee filter for a clearer look.",
+      "Add the acai mixture, white grape juice, and chilled green tea or coffee to the strawberry juice. Mix to combine.",
+      "In a large pitcher with ice cubes, add the strawberry mixture and the rest of the water.",
+      "Add simple syrup to your desired sweetness. You can also use sugar or honey. Start with a small amount, taste, and gradually add more. Mix well.",
+      "Fill each glass 1/3 full of ice cubes and a scoop of strawberry slices. Pour the drink into the glass and serve immediately."
+    ]
+  }
+]
